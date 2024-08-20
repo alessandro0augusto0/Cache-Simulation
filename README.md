@@ -119,7 +119,8 @@ Exemplo dos resultados gerados após a simulação.
    
 2. **Importe os Arquivos `.jar`**
 
-   É necessário adicionar os arquivos `.jar` à biblioteca do projeto. Esses arquivos estão disponíveis na pasta `libs` do repositório. Siga as instruções da sua **IDE** (Eclipse, IntelliJ, etc.) para incluir as bibliotecas externas.
+   É necessário adicionar os arquivos `.jar` à biblioteca do projeto. Esses arquivos estão disponíveis na pasta `libs` do repositório. Siga as instruções da sua IDE (Eclipse, IntelliJ, etc.) para incluir as bibliotecas externas. Além disso, uma pasta chamada `jar` foi incluída no repositório para facilitar a adição dos arquivos necessários, dependendo da IDE utilizada. Também foi criada uma pasta `Testes` para organizar separadamente os arquivos de teste e de configuração.
+
 
 3. **Abra o Projeto na IDE de Sua Preferência**
 
