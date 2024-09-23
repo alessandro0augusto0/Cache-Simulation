@@ -18,7 +18,7 @@ Este projeto consiste no desenvolvimento de um simulador de acesso à memória c
 2. **Mapeamento Associativo**
 3. **Mapeamento Associativo em Conjuntos**
 
-Os mapeamentos associativo e associativo em conjuntos utilizam algoritmos de substituição, como **Random**, **FIFO**, **LFU**, e **LRU**.
+Os mapeamentos associativo e associativo em conjuntos utilizam algoritmos de substituição, como **Random**, **FIFO**, **LFU**, e **LRU**. No entanto, o mapeamento associativo LFU ainda não foi implementado corretamente. Se alguém puder contribuir corrigindo esse código, toda ajuda será muito bem-vinda!
 
 ---
 
